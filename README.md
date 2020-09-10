@@ -1,1 +1,1 @@
-This is my portfolio website, using pure Html Css & Javascript.
+This is my portfolio website, using pure Html Css and Javascript.
